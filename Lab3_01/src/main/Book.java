@@ -48,8 +48,9 @@ public class Book {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
    Book book =new Book();
+   Book [] Arrbook=new Book[15];
    int vt=0;
-   Book [] Arrbook=new Book[10];
+
    while(true) {
 	   book.AddBook();
 	   Arrbook[vt]=book;
