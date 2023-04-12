@@ -56,7 +56,7 @@ public class Book {
 	   vt++;
 	   System.out.println("Bấm y de tiep tuc");
 	   String y=sc.nextLine();
-	   if(y==y) {
+	   if(!y==y) {
 		   break;
 	   }
 	   	
