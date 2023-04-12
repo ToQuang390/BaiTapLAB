@@ -55,7 +55,7 @@ public class main {
 			case 0:
 				break;
 			default:
-				System.out.println("Nhập lại1");
+				System.out.println("Nhập lại");
 			}
 		}
 	}
