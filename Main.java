@@ -73,4 +73,4 @@ public class Main {
 	}
 
 }
-// Gửi bạn xem trộm code của mình ->(Không làm bài mà đòi có ăn á bạn !!!)-ấn vào nó lưu lịch sử xem đó! Thanks!!!
+// Gửi bạn xem code của mình ->(Không làm bài mà đòi có ăn á bạn !!!)-ấn vào nó lưu lịch sử xem đó! Thanks!!!
